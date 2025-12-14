@@ -1,0 +1,18 @@
+[
+    {
+        "from": "Chennai",
+        "to": "Bangalore"
+    },
+    {
+        "from": "Bangalore",
+        "to": "Chennai"
+    },
+    {
+        "from": "Chennai",
+        "to": "Madurai"
+    },
+    {
+        "from": "Chennai",
+        "to": "Selam"
+    }
+]

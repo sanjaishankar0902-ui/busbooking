@@ -1,0 +1,9 @@
+[
+    {
+        "bookingId": "BK001",
+        "busId": 1,
+        "passengerName": "sanjai",
+        "seatNumber": "A1",
+        "date": "2025-01-10"
+    }
+]
